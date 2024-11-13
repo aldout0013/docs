@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 import parseUserAgent from './user-agent'
 const supportedPlatforms = ['mac', 'windows', 'linux']
 const detectedPlatforms = new Set()
